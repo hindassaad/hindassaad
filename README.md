@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Hind, I'm a Mechatronics Engineering student at McMaster University, passionate about both film and backend development alike! Here I've uploaded some of my coursework and a couple of my passion projects. I'm currently working on a full-stack app and cleaning up this profile!
+Hi! My name is Hind, I'm a Mechatronics Engineering student at McMaster University, passionate about both film and backend development alike! Here I've uploaded some of my coursework and a couple of my passion projects. I'm currently working on a full-stack app and cleaning up this profile.
 
 
 ## 🌐 Socials:
