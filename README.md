@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Hind, I'm a Mechatronics Engineering student at McMaster University. 
+Hi! My name is Hind, I'm a Mechatronics Engineering student at McMaster University.  
 
 
 ## 🌐 Socials:
