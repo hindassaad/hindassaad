@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Hind, I'm a Mechatronics Engineering student at McMaster University. I'm passionate about fitness, the Breaking Bad Universe and backend development! Here I've uploaded some of my coursework and a couple of my passion projects.
+Hi! My name is Hind, I'm a Mechatronics Engineering student at McMaster University. I'm passionate about fitness, the Breaking Bad Universe and backend development! Here you'll find some of my coursework and a couple of my passion projects. 
 
 
 ## 🌐 Socials:
